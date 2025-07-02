@@ -19,7 +19,7 @@ Let’s connect and collaborate!
 ---
 
 ### 📫 How to reach me:
-- LinkedIn: https://www.linkedin.com/in/amber-deabenderfer-1818a4368/
+- [LinkedIn](https://www.linkedin.com/in/amber-deabenderfer-1818a4368/)
 
 ---
 
