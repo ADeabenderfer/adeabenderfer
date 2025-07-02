@@ -1,3 +1,4 @@
+![](https://github.com/ADeabenderfer/adeabenderfer/blob/main/pendorielle1.jpg)
 # Hi, I'm Amber 👋
 
 I’m a detail-oriented and results-driven aspiring Data Analyst with hands-on experience in data analysis, reporting automation, and process optimization. Skilled in transforming complex data into actionable insights using advanced Excel (including macros, VBA, and Power Query), Power BI, SmartSheet, and SQL.
