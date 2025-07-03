@@ -10,7 +10,7 @@ I’m a detail-oriented and results-driven aspiring Data Analyst with hands-on e
 - Experience creating multi-dimensional reports and interactive dashboards using Power BI and Smartsheet
 - Ability to write SQL queries for data extraction and analysis to support decision-making
 
-Currently, I’m working at Liberty Mutual Insurance, where I have developed automated Excel tools that cut manual processing times by over 75%, built Power BI dashboards, and delivered training programs to enhance team productivity.
+Currently, I’m working at Liberty Mutual Insurance, where I have developed automated Excel tools that cut manual processing times by over 75%, built Power BI dashboards, and delivered training programs to enhance team productivity. None of the projects included in this portfolio were within the scope of my formal job responsibilities. Rather, they represent self-initiated development efforts, undertaken either in response to identified needs or at the request of colleagues or managers who recognized my expertise and interest in process improvement.
 
 I’m passionate about leveraging data to drive business insights and continuously expanding my technical skills. Feel free to explore my repositories showcasing projects on data cleaning, automation, visualization, and reporting.
 
